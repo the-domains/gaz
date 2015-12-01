@@ -1,7 +1,7 @@
 name: gaz
 favicon: null
-layout_spectrum: 0.3638739171437919
-typography_spectrum: 0.01015667850151658
+layout_spectrum: 1
+typography_spectrum: 0.4424
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.5193183603696525
+  brandStrength: 0.5
   lightness: 0.49382440419867635
   saturation: 0.7211326330434531
   rhythmicContrast: 0.35295728128403425
